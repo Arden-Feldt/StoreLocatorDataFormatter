@@ -1,3 +1,4 @@
+![Chickn Legs Logo](https://www.chicknlegs.com/cdn/shop/files/Logo_Yellow_122_C_Black_Name_TM_c810b369-e4a8-482f-85bc-577f20140603.png?v=1659964521)
 # StoreLocatorDataFormatter
 This is the public tool for ChicknLegs to convert their private store data to a usable json format with latitude and longitude.
 
