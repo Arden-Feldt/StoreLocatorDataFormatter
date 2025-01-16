@@ -12,6 +12,3 @@ Run it! It should take a minute for the geolocater to run.
 
 ## Step 3. Upload storeLatLon.json to Shopify.
 Upload it under the assets tab. It should replace the current version. Make sure not to delete the comment at the top. If you do- the API key can be found in sections/map_with_store_locations.liquid.
-
-#### Arden Feldt
-01000001 01000110
